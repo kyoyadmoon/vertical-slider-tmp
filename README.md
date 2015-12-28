@@ -1,3 +1,8 @@
+# original project:
+
+React Slider http://react-component.github.io/slider/
+
+
 # rc-slider
 ---
 
