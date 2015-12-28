@@ -1,4 +1,4 @@
-# original project:
+# fork from:
 
 React Slider http://react-component.github.io/slider/
 
